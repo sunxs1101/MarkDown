@@ -29,4 +29,7 @@ protocol that automatically provides an Internet Protocol (IP) host
 with its IP address.
 ```
 
-## 驻点
+>  We are working on tools for launching tasks programmatically, e.g. using a cluster manager like Kubernetes.
+
+
+
