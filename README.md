@@ -10,15 +10,6 @@
 
 部分见[参考文献](#参考文献)
 
-## 参考文献
-
-- <a name=cluster>cluster</a> https://coreos.com/etcd/docs/latest/clustering.html
-
-- <a name=security>security</a> https://coreos.com/etcd/docs/latest/security.html
-
-- <a name=real>real</a> https://github.com/coreos/etcd/blob/master/Documentation/op-guide/clustering.md
-
-
 ## 英语书写规范
 
 Ceph Client ==> Ceph client
@@ -34,4 +25,14 @@ with its IP address.
 >  We are working on tools for launching tasks programmatically, e.g. using a cluster manager like Kubernetes.
 
 `阴影`
+
+
+## 参考文献
+
+- <a name=cluster>cluster</a> https://coreos.com/etcd/docs/latest/clustering.html
+
+- <a name=security>security</a> https://coreos.com/etcd/docs/latest/security.html
+
+- <a name=real>real</a> https://github.com/coreos/etcd/blob/master/Documentation/op-guide/clustering.md
+
 
