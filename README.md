@@ -8,6 +8,8 @@
 | 2   | 23802     | 23792      |
 | 3   | 23803     | 23793      |
 
+部分见[参考文献](#参考文献)
+
 ## 参考文献
 
 - <a name=cluster>cluster</a> https://coreos.com/etcd/docs/latest/clustering.html
